@@ -1,0 +1,6 @@
+city,date,temperature_f,wind_mph,humidity,condition
+Louisville,2025-09-13 09:21,64.9,3.4,78,Sunny
+Berea,2025-09-13 09:23,61.0,2.9,83,Partly cloudy
+Richmond,2025-09-13 09:27,66.0,2.5,75,Sunny
+Tokyo,2025-09-13 22:26,82.9,18.8,84,Partly cloudy
+New York,2025-09-13 09:23,68.2,4.7,76,Partly cloudy
